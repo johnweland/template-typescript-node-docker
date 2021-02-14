@@ -26,14 +26,10 @@
 
 <!-- PROJECT LOGO -->
 <br />
+
+<h3 align="center">A Typescript-Node-Docker Template</h3>
+
 <p align="center">
-  <a href="https://github.com/johnweland/template-typescript-node-docker">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">A Typescript-Node-Docker Template</h3>
-
-  <p align="center">
     A solid template to jumpstart your Typescript written nodejs projects running with Docker!
     <br />
     <a href="https://github.com/johnweland/template-typescript-node-docker"><strong>Explore the docs »</strong></a>
@@ -42,8 +38,8 @@
     <a href="https://github.com/johnweland/template-typescript-node-docker/issues">Report Bug</a>
     ·
     <a href="https://github.com/johnweland/template-typescript-node-docker/issues">Request Feature</a>
-  </p>
 </p>
+
 
 
 
@@ -161,7 +157,6 @@ Project Link: [https://github.com/johnweland/template-typescript-node-docker](ht
 [issues-shield]: https://img.shields.io/github/issues/johnweland/template-typescript-node-docker?style=for-the-badge
 [issues-url]: https://github.com/johnweland/template-typescript-node-docker/issues
 [license-shield]: https://img.shields.io/github/license/johnweland/template-typescript-node-docker?style=for-the-badge
-[license-url]: https://github.com/johnweland/template-typescript-node-docker/blob/master/LICENSE.md
+[license-url]: https://github.com/johnweland/template-typescript-node-docker/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/johnweland
-[product-screenshot]: images/screenshot.png
