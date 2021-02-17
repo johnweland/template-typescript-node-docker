@@ -73,7 +73,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+There are many great templates available on GitHub, however, I wanted to create a template myself.
 
 Here's why:
 * Inheriting a GitHub repository from this template saves time.
